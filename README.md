@@ -6,6 +6,8 @@ cocoletter の「ココアを呼ぶ」ボタン機能だけを切り出した、
 
 Single-file Flask + SQLite button app, spun out of cocoletter's cocoa button.
 
+**Live Demo:** https://cocobutton.onrender.com/
+
 ## Features
 - 「ココアを呼ぶ」ボタンでセリフをランダム表示（24種・連続重複なし）
 - 押した回数のカウント表示（累計／今日）
